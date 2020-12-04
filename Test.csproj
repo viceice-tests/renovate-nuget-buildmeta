@@ -1,0 +1,5 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <ItemGroup>
+    <PackageReference Include="Serilog.Exceptions" Version="4.1.0" />
+  </ItemGroup>
+</Project>
